@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.git/
+frontend/node_modules/
+frontend/dist/
+workspace/*
+!workspace/.gitkeep
+README.md
